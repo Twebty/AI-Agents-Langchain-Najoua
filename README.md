@@ -290,7 +290,7 @@ Procedure de test :
 6. poser une question sur les documents ;
 7. verifier la reponse et les passages sources affiches.
 
-![alt text](image.png)
+![alt text](image1.png)
 
 ## Partie 3 - Application Streamlit multimodale
 
@@ -308,7 +308,7 @@ Procedure de test :
 4. utiliser l'onglet **RAG Texte** pour poser une question textuelle ;
 5. utiliser l'onglet **Vision / Pages** pour choisir une page et poser une question visuelle.
 
-![alt text](image-1.png)
+![alt text](image2.png)
 
 ## Flux de traitement du projet
 

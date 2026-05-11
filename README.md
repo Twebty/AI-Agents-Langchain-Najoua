@@ -1,20 +1,21 @@
-# Activite Pratique N°2 : RAG
+# Projet PFE - Assistant Intelligent basé sur RAG (LangChain & Streamlit)
+Développé par Najoua Mouaddab
+## Auteur
+Najoua Mouaddab  
+
+Encadrants : Mohamed YOUSSFI
+
 
 ## Introduction
 
-Ce projet a ete realise dans le cadre d'un **TP universitaire** consacre au **RAG (Retrieval-Augmented Generation)**. L'objectif principal est de comprendre comment construire une application capable de :
-
-- charger des documents PDF ;
-- extraire et indexer leur contenu ;
-- retrouver les passages les plus pertinents pour une question ;
-- generer une reponse avec un modele de langage ;
-- etendre ensuite ce principe a un cadre **multimodal**, ou le systeme peut aussi analyser visuellement les pages d'un document.
+Ce projet a été réalisé par Najoua Mouaddab . dans le cadre d'un **TP universitaire** consacre au **RAG (Retrieval-Augmented Generation)**.L’objectif du projet est de concevoir une application intelligente capable d’interroger des documents PDF à l’aide de techniques de Retrieval-Augmented Generation (RAG).Aveccharger des documents PDF ,extraire et indexer leur contenu 
+, generer une reponse avec un modele de langage et le systeme peut aussi analyser visuellement les pages d'un document.
 
 Le travail est organise en **trois parties complementaires** :
 
-1. un **notebook Jupyter** pour experimenter les etapes fondamentales du pipeline RAG ;
-2. une application **Streamlit** de type chatbot RAG ;
-3. une application **multimodale** combinant RAG texte et analyse visuelle des pages PDF.
+un **notebook Jupyter** pour experimenter les etapes fondamentales du pipeline RAG ;
+une application **Streamlit** de type chatbot RAG ;
+une application **multimodale** combinant RAG texte et analyse visuelle des pages PDF.
 
 Le projet a ete pense pour rester **pedagogique, modulaire, clair et directement exploitable** dans un contexte d'apprentissage.
 
@@ -418,6 +419,9 @@ Plusieurs extensions peuvent etre envisagees pour une version ulterieure :
 - comparaison de plusieurs modeles d'embeddings ;
 - export des reponses generees.
 
-## Auteur
+## Valeur ajoutée
 
-Projet realise dans le cadre d'une **Activite Pratique N°2** sur le **RAG**, **LangChain**, **Streamlit** et les **LLM**.
+Ce projet met en œuvre une solution d’IA capable de :
+- comprendre des documents complexes
+- répondre avec contexte fiable
+- réduire les hallucinations des modèles

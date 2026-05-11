@@ -214,7 +214,7 @@ def main() -> None:
         st.error(str(exc))
         st.stop()
 
-    st.title("Partie 2 - Chatbot RAG avec Streamlit")
+    st.title("Partie2 - Chatbot RAG avec Streamlit")
     st.write(
         "Cette application permet de charger des PDF, de les indexer dans Chroma "
         "et de poser des questions repondues uniquement a partir du contexte retrouve."

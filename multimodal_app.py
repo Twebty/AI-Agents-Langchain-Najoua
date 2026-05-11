@@ -295,7 +295,7 @@ def main() -> None:
         st.error(str(exc))
         st.stop()
 
-    st.title("Partie 3 - RAG multimodal")
+    st.title("Partie3 -  RAG Multi Modal")
     st.write(
         "Cette application combine un RAG textuel classique et une analyse visuelle "
         "des pages PDF converties en images."

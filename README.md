@@ -308,7 +308,7 @@ Procedure de test :
 4. utiliser l'onglet **RAG Texte** pour poser une question textuelle ;
 5. utiliser l'onglet **Vision / Pages** pour choisir une page et poser une question visuelle.
 
-![alt text](image2.png)
+![alt text](image3.png)
 
 ## Flux de traitement du projet
 
